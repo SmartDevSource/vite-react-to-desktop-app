@@ -11,6 +11,7 @@ const createWindow = () => {
     })
 
     win.loadFile(path.join(app.getAppPath(), 'dist/index.html'))
+    win.setMenu(null)
 }
 
 app.whenReady().then(() =>{
