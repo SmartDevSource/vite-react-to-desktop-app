@@ -27,7 +27,7 @@
       "package.json"
     ],
     "nsis": {
-      "uninstallDisplayName": "Désinstaller l'application",
+      "uninstallDisplayName": "vite-project",
       "license": "license.txt",
       "oneClick": "false",
       "allowToChangeInstallationDirectory": "true"
